@@ -8,7 +8,6 @@ Currently a student at a university studying web development. I know how to code
 
 * 🌍  I'm based in Morocco,Fez
 * ✉️  You can contact me at [abdllahbounafaa@gmail.com](mailto:abdllahbounafaa@gmail.com)
-* 🧠  I'm learning Laravel,React JS,MongoDB,TypeScript
 * 🤝  I'm open to collaborating on Front End projects
 
 ### Skills
