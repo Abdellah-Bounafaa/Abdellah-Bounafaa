@@ -42,6 +42,6 @@ Currently a student at a university studying web development. I know how to code
 
 <a href="http://www.github.com/Abdellah-Bounafaa"><img src="https://github-readme-stats.vercel.app/api?username=Abdellah-Bounafaa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Abdellah-Bounafaa's GitHub stats" /></a>
 
-<a href="http://www.github.com/Abdellah-Bounafaa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdellah-Bounafaa&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/Abdellah-Bounafaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-Bounafaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
