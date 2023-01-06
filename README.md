@@ -44,3 +44,20 @@ Currently a student at a university studying web development. I know how to code
 
 
 <a href="https://github.com/Abdellah-Bounafaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdellah-Bounafaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
