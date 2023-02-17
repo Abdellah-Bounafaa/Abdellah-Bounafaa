@@ -10,6 +10,9 @@ Currently a student at a university studying web development. I know how to code
 * ✉️  You can contact me at [abdllahbounafaa@gmail.com](mailto:abdllahbounafaa@gmail.com)
 * 🤝  I'm open to collaborating on Front End projects
 
+### Projects
+#### Dictionary App : https://bnfdictionary.netlify.app/
+
 ### Skills
 
 
