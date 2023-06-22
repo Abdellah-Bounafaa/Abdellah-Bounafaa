@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 *   🌍  I'm based in Fez, Morocco
 *   ✉️  You can contact me at [abdllahbounafaa@gmail.com](mailto:abdllahbounafaa@gmail.com)
 *   🧠  I'm learning Laravel/MERN
-*   🤝  I'm open to collaborating on Full stack/Mesrn stack apps### Skills 
+*   🤝  I'm open to collaborating on Full stack/Mesrn stack apps
+*   ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
