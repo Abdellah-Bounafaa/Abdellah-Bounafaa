@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 *   🌍  I'm based in Fez, Morocco
 *   ✉️  You can contact me at [abdllahbounafaa@gmail.com](mailto:abdllahbounafaa@gmail.com)
-*   🧠  I'm learning Laravel/MERN
 *   🤝  I'm open to collaborating on Full stack/Mern stack apps
 *   ### Skills 
 <p align="left">
