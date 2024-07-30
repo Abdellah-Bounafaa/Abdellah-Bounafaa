@@ -28,3 +28,4 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
                     
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdellah-Bounafaa&show_icons=true&theme=radical)
