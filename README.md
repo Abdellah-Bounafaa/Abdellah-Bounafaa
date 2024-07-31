@@ -51,6 +51,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Dusk Tests](https://img.shields.io/badge/-Dusk%20Tests-6DB33F?style=flat&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
+### Data Analysis
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 ### Tools & IDEs
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
