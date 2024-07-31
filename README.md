@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 *   🌍  I'm based in Fez, Morocco
 *   ✉️  You can contact me at [contact@abdellahbounafaa.online](mailto:contact@abdellahbounafaa.online)
-*   🤝  I'm open to collaborating on Fullstack projects
+*   🤝  I'm open to contributing to open-source projects.
  
   ## 🛠️ Skills
 
