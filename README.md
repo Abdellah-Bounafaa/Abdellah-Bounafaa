@@ -65,3 +65,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdellah-Bounafaa&show_icons=true&locale=en" alt="Abdellah-Bounafaa" />
+</p>
+
