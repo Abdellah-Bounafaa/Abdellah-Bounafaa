@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selma-bentaiba&show_icons=true&locale=en&layout=compact" alt="selma-bentaiba" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdellah-Bounafaa&show_icons=true&locale=en&layout=compact" alt="Abdellah-Bounafaa" />
 </p>
 
 <p>&nbsp;
