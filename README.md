@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Twig](https://img.shields.io/badge/-Twig-339933?style=flat&logo=twig&logoColor=white)
-![Blade](https://img.shields.io/badge/-Blade-E34F26?style=flat&logo=laravel&logoColor=white)
 
 ### Back-end Development
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
