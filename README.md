@@ -69,10 +69,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdellah-Bounafaa&show_icons=true&locale=en&layout=compact" alt="Abdellah-Bounafaa" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdellah-Bounafaa&show_icons=true&locale=en" alt="Abdellah-Bounafaa" />
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-bounafaa&" alt="abdellah-bounafaa" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-bounafaa&" alt="abdellah-bounafaa" /></p>
