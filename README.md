@@ -72,6 +72,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experti
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah-bounafaa&" alt="abdellah-bounafaa" /></p>
+<p>
+<img align="center" src="[https://github-readme-stats.vercel.app/api?user=abdellah-bounafaa" alt="abdellah-bounafaa" /></p>
 
-[https://github-readme-stats.vercel.app/api?username=Abdellah-Bounafaa](https://github.com/Abdellah-Bounafaa/github-readme-stats)
+
 
